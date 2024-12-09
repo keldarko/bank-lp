@@ -1,0 +1,3711 @@
+
+    /* *********phones ***********************************************************************************************************************************************************************/
+    /* *********phones ***********************************************************************************************************************************************************************/
+    /* *********phones ***********************************************************************************************************************************************************************/
+    /* *********phones ***********************************************************************************************************************************************************************/
+    /* *********phones ***********************************************************************************************************************************************************************/
+    /* *********phones ***********************************************************************************************************************************************************************/
+    /* *********phones ***********************************************************************************************************************************************************************/
+    /* *********phones ***********************************************************************************************************************************************************************/
+    /* *********phones ***********************************************************************************************************************************************************************/
+    @media (min-width:375px) {
+
+        .device-type::after {
+            content: 'Phone - 375';
+            color: #fff;
+        }
+    }
+
+    /* *********tablet ***********************************************************************************************************************************************************************/
+    /* *********tablet ***********************************************************************************************************************************************************************/
+    /* *********tablet ***********************************************************************************************************************************************************************/
+    /* *********tablet ***********************************************************************************************************************************************************************/
+    /* *********tablet ***********************************************************************************************************************************************************************/
+    /* *********tablet ***********************************************************************************************************************************************************************/
+    /* *********tablet ***********************************************************************************************************************************************************************/
+
+    /* tablet */
+    @media (min-width: 768px) {}
+
+    /* tablet ends */
+
+    /* *********laptop ***********************************************************************************************************************************************************************/
+    /* *********laptop ***********************************************************************************************************************************************************************/
+    /* *********laptop ***********************************************************************************************************************************************************************/
+    /* *********laptop ***********************************************************************************************************************************************************************/
+    /* *********laptop ***********************************************************************************************************************************************************************/
+    /* *********laptop ***********************************************************************************************************************************************************************/
+    /* *********laptop ***********************************************************************************************************************************************************************/
+    /* *********laptop ***********************************************************************************************************************************************************************/
+    /* *********laptop ***********************************************************************************************************************************************************************/
+    @media (min-width:1280px) {
+
+        .wrap {
+            width: 100% !important;
+            overflow: hidden !important;
+        }
+
+        .landingpage-container-content {
+            display: flex;
+            align-items: center;
+            background-color: #f5f5f5;
+        }
+
+        .landing-page-container-image-link {
+            width: 50%;
+        }
+
+        .f_bold,
+        b {
+            font-family: "mns-london-bold", Arial, Helvetica, sans-serif;
+            font-weight: normal;
+        }
+
+        /* #banner_text_default_variation {
+    padding: 7em 14em;
+} */
+
+        .landing-page-container-link-content-heading {
+            font-size: 20px;
+            line-height: 28px;
+            margin-bottom: 12px;
+        }
+
+        .desktop-image {
+            display: block;
+        }
+
+        .mobile-image {
+            display: none;
+        }
+
+        .five-x-section {
+            display: grid;
+            grid-auto-flow: column;
+            grid-template-columns: 1fr 1fr;
+            background-color: #f5f5f5;
+        }
+
+        .five-x-section-icon {
+            margin: auto;
+        }
+
+        .five-x-section-copy {
+            display: grid;
+            padding: 0 2em;
+            align-content: center;
+        }
+
+        .five-x-section-copy p {
+            text-align: center;
+            font-size: 20px;
+
+        }
+
+        .five-x-section-copy h3 {
+            text-align: center;
+            font-family: "mns-london-bold";
+            font-size: 28px;
+            line-height: 38px;
+            margin-bottom: 10px;
+
+        }
+
+        .steps-for-e-gift.more-steps {
+            padding: 6em;
+        }
+
+        .customer-voucher-section {
+            display: flex;
+            background-color: #f5f5f5;
+            margin-top: 6em;
+        }
+
+        .customer-voucher-section-copy {
+            width: 50%;
+            text-align: center;
+            align-content: center;
+        }
+
+        .customer-voucher-section-image {
+            width: 50%;
+        }
+
+        .customer-voucher-section h3 {
+            font-family: "mns-london-bold";
+            font-size: 28px;
+        }
+
+
+        .landing-page-container-link-content-subheading {
+            font-size: 28px;
+            line-height: 38px;
+            margin-bottom: 8px;
+            font-weight: normal;
+            font-family: "mns-london-bold";
+            color: #000;
+            text-align: center;
+        }
+
+        .landing-page-container-image {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            z-index: 0;
+        }
+
+        .c-row {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: row;
+            margin: auto;
+        }
+
+        .c-row-image {
+            height: auto;
+            background-color: #ffffff;
+            background-image: url(https://assets.digitalcontent.marksandspencer.app/image/upload/w_1280/v1733400057/bank-jan-25-hero-banner-1280.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 50%;
+        }
+
+        .first-variation {
+            margin-right: 100px;
+        }
+
+        .c-row-text {
+            background-color: #ffffff;
+            background-size: cover;
+            padding: 22em 1em;
+            width: 50%;
+        }
+
+        .more-points-section-title {
+            padding: 3em 28rem 3rem;
+        }
+
+        .rewards-points-copy {
+            text-align: center;
+            margin-top: 5em;
+            margin-bottom: 7em;
+        }
+
+        .rewards-points-copy h3 {
+            font-size: 20px;
+            font-family: "mns-london-bold";
+            margin-bottom: 0.8em;
+        }
+
+        .rewards-points-copy p {
+            font-size: 18px;
+            margin-bottom: 2em;
+        }
+
+        .more-points-section-title h2 {
+            text-align: center;
+            font-family: "mns-london";
+            font-size: 24px;
+            line-height: 32px;
+            font-weight: 400;
+        }
+
+        .representative-banner {
+            background-color: #222222;
+        }
+
+        .more-points-section {
+            display: flex;
+            margin-bottom: 6em;
+            padding: 0px 80px;
+        }
+
+        .landing-page-container-terms {
+            font-size: 16px;
+            line-height: 28px;
+            margin-bottom: 16px;
+            font-weight: 400;
+            color: #222222;
+            text-align: center;
+        }
+
+        .landing-page-container-sub-heading {
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px;
+            font-family: mns-london;
+            color: #ffff;
+            margin-bottom: 16px;
+        }
+
+        .landing-page-container-sub-heading-var-one {
+            font-size: 28px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 38px;
+            font-family: mns-london;
+            color: #ffff;
+            margin-bottom: 16px;
+            width: 408px;
+        }
+
+        .landing-page-container-image-image {
+            width: 100%;
+            height: 100%;
+        }
+
+
+        .discover-benefits-button {
+            font-size: 16px;
+            padding: 16px 60px;
+            border: 1px solid;
+            color: #fff;
+            background-color: #000;
+        }
+
+        .get-support-find-out-more {
+            background-color: #222222;
+            color: #fff;
+            margin: auto;
+        }
+
+        .mnds-bank-banner__container-link-content-button {
+            font-size: 16px;
+            padding: .33em 1.01em;
+            color: #fff;
+            line-height: 38px;
+        }
+
+
+        .mnds-bank-banner__container-link-content-button p {
+            font-size: 16px;
+            padding: 10px 11px;
+            color: #fff;
+            line-height: 28px;
+        }
+
+        .card-image-desktop {
+            position: absolute;
+            z-index: 1;
+            bottom: 32px;
+            width: 250px;
+            left: 32px;
+        }
+
+        .card-image-mobile {
+            position: absolute;
+            z-index: 1;
+            bottom: 32px;
+            left: 32px;
+        }
+
+        .terms-conditions-text {
+            color: #000;
+            font-size: 12px;
+            line-height: 18px;
+            text-align: center;
+        }
+
+        .terms-conditions-text-span {
+            display: block;
+        }
+
+        .landing-page-container-link-content {
+            max-width: 420px;
+            margin: auto
+        }
+
+        .sign-in {
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 22px;
+            letter-spacing: 0px;
+        }
+
+        .sign-in-mobile {
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 22px;
+            letter-spacing: 0px;
+        }
+
+        .benefits-mainheading {
+            text-align: center;
+            font-size: 30px;
+            margin-bottom: 40px;
+            font-family: "mns-london-bold";
+            line-height: 40px;
+        }
+
+        .e-gift-card {
+            background-color: #dfece2;
+            padding: 24px 16px 24px 16px;
+            text-align: center;
+            border-radius: 8px;
+        }
+
+        .image {
+            margin-bottom: 8px;
+        }
+
+        .benefits-heading {
+            font-size: 20px;
+            margin-bottom: 8px;
+            line-height: 28px;
+            font-family: 'mns-london-bold';
+        }
+
+        .benefits-subheading {
+            font-size: 14px;
+            line-height: 22px;
+            font-family: 'mns-london';
+        }
+
+        .Apr-section {
+            display: flex;
+            gap: 1em;
+        }
+
+        .Apr-main-heading {
+            font-size: 18px;
+            color: white;
+            font-family: "mns-london-bold" !important;
+            line-height: 28px;
+        }
+
+        .APR-section-content {
+            padding: 32px 0px 24px 0px;
+            text-align: center;
+        }
+
+        .Apr-heading {
+            font-size: 30px;
+            margin-bottom: 0px;
+            color: white;
+            line-height: 40px;
+        }
+
+        .Apr-subheading {
+            font-size: 12px;
+            line-height: 26px;
+            font-family: "mns-london-bold";
+            color: white;
+        }
+
+        .Apr-v-one-main-heading {
+            font-size: 20px;
+            color: #fff;
+            font-family: "mns-london-bold" !important;
+            line-height: 22px;
+            margin-bottom: 12px;
+        }
+
+        .Apr-v-one-main-subheading {
+            font-size: 14px;
+            color: #fff;
+            font-family: "mns-london" !important;
+            line-height: 22px;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        .Apr-v-one-main-subheading-mobile {
+            font-size: 14px;
+            color: #fff;
+            font-family: "mns-london" !important;
+            line-height: 22px;
+            text-decoration: underline;
+            display: none;
+        }
+
+        .rewards-main-heading {
+            text-align: center;
+            font-size: 30px;
+            margin-bottom: 32px;
+            color: white;
+            font-family: "mns-london-bold";
+        }
+
+        .rewards-main-heading-ab {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 32px;
+            color: black;
+            font-family: "mns-london-bold";
+        }
+
+        .rewards-section-content {
+            text-align: center;
+            color: white;
+        }
+
+        .rewards-section-content-ab {
+            text-align: center;
+            color: black;
+            max-width: 346px;
+        }
+
+        .rewards-heading {
+            font-size: 24px;
+            margin-bottom: 16px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+        }
+
+        .rewards-subheading {
+            font-size: 16px;
+            line-height: 26px;
+            color: white;
+        }
+
+        .rewards-subheading-one-ab {
+            font-size: 20px;
+            line-height: 28px;
+            color: black;
+            margin-bottom: 8px;
+            font-family: "mns-london-bold";
+        }
+
+        .rewards-subheading-two-ab {
+            font-size: 16px;
+            line-height: 26px;
+            color: black;
+        }
+
+        .account-section-container-content {
+            display: flex;
+            align-items: center;
+        }
+
+        .account-access-mainheading {
+            font-size: 30px;
+            margin-bottom: 16px;
+        }
+
+        .account-section-subheading {
+            font-size: 20px;
+        }
+
+        .account-access-content {
+            font-size: 16px;
+        }
+
+        .other-benefits-heading {
+            text-align: center;
+            margin-bottom: 24px;
+            margin-top: 64px;
+        }
+
+        .other-benefits-section-heading {
+            font-size: 20px;
+            font-weight: 600;
+            line-height: 26px;
+        }
+
+        .other-benefits-content {
+            padding: 0px 16px 0px 16px;
+            margin-bottom: 64px;
+        }
+
+        .other-benefits-points {
+            font-size: 20px;
+            text-align: center;
+            padding: 8px;
+            font-weight: 600;
+        }
+
+        .other-benefits-subheading {
+            font-size: 16px;
+            text-align: center;
+            font-weight: 400;
+            line-height: 26px;
+        }
+
+        .other-benefits-image {
+            display: flex;
+            justify-content: center;
+        }
+
+        .other-benefits-sections {
+            margin-bottom: 64px;
+        }
+
+        .rewards-points-subsection-content {
+            font-size: 16px;
+            line-height: 26px;
+        }
+
+        .rewards-points-section-container {
+            background-color: #222;
+            padding: 3em;
+        }
+
+        .rewards-points-section-container-ab {
+            background-color: #ffff;
+        }
+
+        .shopping-offer-image {
+            width: 75px;
+            height: 48px;
+            margin-bottom: 24px;
+        }
+
+        .shopping-offer-text {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 24px;
+            font-size: 16px;
+            line-height: 26px;
+            font-weight: 400;
+        }
+
+        .card-image-desktop-image {
+            width: 250px;
+        }
+
+        .landing-page-container-image-tablet {
+            position: relative;
+            z-index: 0;
+        }
+
+        .landing-page-container-image-mobile {
+            position: relative;
+        }
+
+        .eligibility-check-content {
+            font-size: 16px;
+            font-weight: 600;
+            line-height: 26px;
+            letter-spacing: 0px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .shop-straigh-away-content {
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+            letter-spacing: 0px;
+            text-align: left;
+            margin-bottom: 24px;
+        }
+
+        .terms-conditions-container p {
+            font-size: 14px;
+            line-height: 22px;
+            letter-spacing: 0px;
+            text-align: left;
+        }
+
+        .account-section-list {
+            list-style: disc;
+            padding-left: 30px;
+        }
+
+        .account-section-image-tablet-image {
+            margin-top: 214px;
+            position: absolute;
+            right: 0;
+            bottom: 0;
+        }
+
+        .rewards-points-subsection-content2 {
+            font-weight: 600;
+            line-height: 30px;
+        }
+
+        .total-rewards {
+            display: flex;
+            justify-content: center;
+        }
+
+        .mobile-app-header {
+            margin-right: 530px !important;
+        }
+
+        .terms-conditions-container {
+            padding: 48px 16px;
+            max-width: 1280px;
+            margin: auto;
+        }
+
+        .terms-conditions-title {
+            font-family: 'mns-london-bold';
+            font-size: 24px;
+            margin-bottom: 24px;
+            text-align: center;
+        }
+
+        .apply-now-header-link {
+            padding: 10px 30px !important;
+        }
+
+        .mobile-app-section {
+            max-width: 1128px;
+            margin: 0 auto;
+            background-color: #e0e4e7;
+        }
+
+        .card-section-subheading {
+            font-size: 20px;
+            text-align: center;
+            margin: 12px 0;
+            font-family: 'mns-london';
+        }
+
+        .representative-example {
+            padding: 0px 18px;
+            display: flex;
+            gap: 5em;
+            align-items: center;
+            justify-content: center
+        }
+
+        .skinny-banner-section {
+            background-color: #DFECE2;
+            display: flex;
+            padding: 2em 2em;
+            margin-top: 4em;
+
+        }
+
+        .skinny-banner-icon {
+            align-items: center;
+        }
+
+        .skinny-banner-copy {
+            font-size: 16px;
+            align-content: center;
+            font-family: "mns-london-bold";
+            padding: 2em;
+        }
+
+        #all-benefits {
+            /* padding: 1em 2em; */
+        }
+
+        .rewards-point-heading {
+            text-align: center;
+        }
+
+        .rewards-point-heading-first {
+            font-size: 56px;
+            font-weight: 600;
+            color: #fff;
+            font-family: 'mns-london';
+        }
+
+        .rewards-point-heading-second {
+            font-size: 16px;
+            font-weight: 400;
+            color: #fff;
+            font-family: 'mns-london';
+        }
+
+        .rewards-point-desc {
+            text-align: center;
+            font-family: 'mns-london';
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 26px;
+            color: #fff;
+            margin-top: 16px;
+        }
+
+        .navbar-container {
+            background-color: #f5f5f5;
+            height: 46px;
+            width: 100%;
+        }
+
+        /* Common styles for all list items */
+        .navbar-content {
+            display: flex;
+            justify-content: center;
+            color: white;
+            font-size: 14px;
+            line-height: 22px;
+            align-items: center;
+            list-style: none;
+            padding: 7px;
+            margin: auto;
+            max-width: 1280px;
+        }
+
+        .navbar-container-content {
+            margin-right: 20px;
+            /* Adjust this value as needed */
+        }
+
+        /* Styles for the right-aligned list item */
+        .right-item {
+            margin-left: auto;
+            margin-right: 60px;
+
+        }
+
+        .left-item {
+            margin-left: 60px;
+        }
+
+        .uline a {
+
+            border-bottom: 1px solid #222222;
+        }
+
+        .arrow-link {
+            margin-top: 2em;
+            top: .5em;
+            position: relative;
+        }
+
+        .ms-vouchers-section {
+            padding: 60px 40px !important;
+
+        }
+
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        /* Firefox */
+        input[type="number"] {
+            -moz-appearance: textfield;
+        }
+
+        .calculator-area {
+            display: none;
+        }
+
+        .calculator-area.active {
+            display: block;
+        }
+
+        #calculatorContainer {
+            background-color: #dfece2;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 124px 24px;
+            gap: 10px;
+        }
+
+        .calculatorHeading {
+            height: 40px;
+            font-style: normal;
+            font-weight: 550;
+            font-size: 30px;
+            line-height: 40px;
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        .calculatorDescription {
+            font-style: normal;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: center;
+            padding-bottom: 10px;
+        }
+
+        #calculatorInputs {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin: auto;
+            gap: 80px;
+        }
+
+        .calculatorInputHeading {
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: center;
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+        }
+
+        .calculatorInputDescription {
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 22px;
+            text-align: center;
+        }
+
+        .calcultorInputBox {
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+            gap: 15px;
+            width: 220px;
+            height: 80px;
+            background: #ffffff;
+            border: 1px solid #cccccc;
+            flex: none;
+            order: 1;
+            flex-grow: 0;
+            outline: none;
+            text-align: center;
+            font-family: "New MS London";
+            font-weight: 400;
+            line-height: 63px;
+            text-align: center;
+            font-size: 48px !important;
+        }
+
+        .calcultorInputFooter {
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 22px;
+            display: flex;
+            align-items: center;
+            margin-top: 8px;
+        }
+
+        .calculatorRewardPoint {
+            margin-left: 10px;
+        }
+
+        .calculatorVoucherBox {
+            justify-content: space-between;
+        }
+
+        .calculatorInputDescription2 {
+            font-style: normal;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 22px;
+            text-align: center;
+        }
+
+        .calculatorVoucherFirstYear,
+        .calculatorVoucherNextYear {
+            font-weight: 400;
+            font-size: 48px;
+            line-height: 63px;
+            text-align: center;
+            margin-top: 0px;
+        }
+
+        #calculatorFooter {
+            padding: 24px 48px;
+            background-color: #222222;
+            margin: auto;
+        }
+
+        .calculatorInputs2 {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin: auto;
+            gap: 80px;
+            align-items: center;
+        }
+
+        .calcultorLastCard1 {
+            width: 60%;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            color: white;
+        }
+
+        .calcultorLastCard1>div>p {
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 26px;
+        }
+
+        .calcultorLastCard2 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .calculatorCardImage {
+            height: 64px;
+            padding: 0px;
+            width: 100px;
+        }
+
+        .calculatorLink {
+            color: white;
+        }
+
+        .accordion1,
+        .accordion2 {
+            width: 30px;
+        }
+
+        .other-benefits-mainheading {
+            font-weight: 600;
+        }
+
+        .smallViewOpen,
+        .smallViewClose {
+            display: none;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .smallViewOpenB,
+        .smallViewCloseB {
+            display: none;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        /* .smallViewText {
+text-decoration: underline;
+} */
+        .calculatorForm {
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            width: 60%;
+        }
+
+        .calculatorInputs3 {
+            display: none;
+            text-align: center;
+            width: 100%;
+            margin: auto;
+            color: white;
+        }
+
+        .calculatorMobileFooter {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: auto;
+        }
+
+        .voucher-heading {
+            white-space: nowrap;
+        }
+
+        .earn-your-voucher-section {
+            background-color: #DFECE2;
+            text-align: center;
+            margin: 5em 0;
+            padding: 3em;
+
+
+        }
+
+        .earn-your-voucher-section h3 {
+            font-size: 24px;
+            font-family: "mns-london-bold";
+        }
+
+        .earn-your-voucher-cards {
+            display: flex;
+            justify-content: center;
+            gap: 3em;
+        }
+
+        .earn-card-item {
+
+            padding: 4em 6em;
+            width: 342px;
+        }
+
+
+        .earn-card-item h5 {
+            background-color: #000;
+            color: #fff;
+            border-radius: 50%;
+
+        }
+
+        .earn-card-item p {
+            font-size: 16px;
+        }
+
+        .circle {
+            display: inline-block;
+            line-height: 0px;
+            border-radius: 50%;
+            font-size: 16px;
+            background-color: rgb(0, 0, 0);
+            color: white;
+            margin-bottom: 1em;
+        }
+
+        .circle span {
+            display: inline-block;
+            padding-top: 50%;
+            padding-bottom: 50%;
+            margin-left: 8px;
+            margin-right: 8px;
+        }
+
+        /* Calc-Section */
+        .text-center-align {
+            text-align: center;
+        }
+
+        .calculator-toggle {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font: 400 1.6rem "mns-london-bold", Helvetica, Arial, Sans-serif;
+            cursor: pointer;
+        }
+
+        a.calculator-toggle svg {
+            transition: all 0.5s ease-in-out;
+        }
+
+        a.calculator-toggle.active svg {
+            transform: rotate(180deg);
+            transition: all 0.5s ease-in-out;
+        }
+
+        /* .calc-area {
+    opacity: 0;
+    max-height: 0;
+    transition: all 0.5s ease-in-out;
+} */
+
+        .calc-area {
+            opacity: 1;
+            max-height: 860px;
+            /* transition: all 0.5s ease-in-out; */
+            margin-top: 1.6rem;
+        }
+
+        .calc-area.active {
+            opacity: 1;
+            max-height: 860px;
+            /* transition: all 0.5s ease-in-out; */
+            margin-top: 1.6rem;
+        }
+
+        .calculator-section {
+            box-sizing: border-box;
+            text-align: left;
+            padding: 2.4rem 24.8rem;
+            border-top: 1px solid #e0e4e7;
+            margin: auto;
+            background: #f5f5f5;
+            color: #000;
+            margin: auto;
+        }
+
+        .calculator-section .header {
+            margin-top: 0;
+            margin-bottom: 2.4rem;
+        }
+
+        .calculator-section .header h2 {
+            color: #000;
+            line-height: 1.3;
+            margin-top: 0;
+            margin-bottom: 1.6rem;
+            text-transform: uppercase;
+            font: 600 3rem "mns-london", Helvetica, Arial, Sans-serif !important;
+        }
+
+        .calculator-section h3 {
+            font-size: 24px;
+            line-height: 30px;
+            font-family: "mns-london-bold";
+            margin-bottom: 1em;
+        }
+
+        .calculator-section p {
+            font-size: 16px;
+            line-height: 26px;
+            margin-bottom: 1.5em;
+        }
+
+        .calculator-section .header p {
+            line-height: 1.4;
+            font: 400 1.6rem "mns-london", Helvetica, Arial, Sans-serif;
+        }
+
+        .calculator {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 6.4rem;
+        }
+
+        .calculator .input-fields {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 0;
+        }
+
+        .input-fields input,
+        .input-fields input::placeholder {
+            width: 214px;
+            height: 54px;
+            font-size: 28px;
+            text-align: center;
+            color: #000;
+            border: 1px solid #999999;
+            outline: none;
+            padding: 0;
+            font-style: normal;
+            margin-top: 0.2em;
+        }
+
+        .input-fields input {
+            color: #000;
+        }
+
+        .calculator .total-reward-points,
+        .calculator .input-field {
+            width: 240px;
+            overflow-x: hidden;
+        }
+
+        .total-reward-points.text-align-center {
+            text-align: center;
+        }
+
+        /* Chrome, Safari, Edge, Opera */
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        /* Firefox */
+        input[type="number"] {
+            appearance: none;
+            -moz-appearance: textfield;
+        }
+
+        .calculator .small-font {
+            font: 400 1.4rem "mns-london", Helvetica, Arial, Sans-serif;
+            line-height: 1.6;
+            letter-spacing: 0px;
+
+            margin: 0;
+        }
+
+        .calculator .medium-font {
+            font-family: "mns-london-bold", Helvetica, Arial, Sans-serif;
+            font-size: 14px;
+            line-height: 22px;
+
+
+            margin: 0;
+        }
+
+        .calculator .reward-points {
+            text-align: left;
+            margin-top: 1.2rem;
+        }
+
+        .calculator .monthly-spend-eg {
+            margin-bottom: 1.2rem;
+        }
+
+        .calculator .voucher-amount {
+            /* font: 400 4.8rem "mns-london", Helvetica, Arial, Sans-serif; */
+            font-family: "mns-london-bold", Helvetica, Arial, Sans-serif;
+            font-size: 40px;
+            line-height: 50px;
+            margin: 1.2rem 0;
+            text-align: center;
+            /* overflow: scroll; */
+        }
+
+        .calculator .voucher-amount::-webkit-scrollbar {
+            -webkit-appearance: none;
+            display: none;
+        }
+
+        .calculator-section .circular-msg {
+            display: flex;
+            align-items: end;
+            justify-content: center;
+            gap: 3.2rem;
+        }
+
+        .circular-msg .circle-icon {
+            padding-bottom: 1.6rem;
+        }
+
+        .circular-msg .header-text {
+            font: 600 1.6rem "mns-london", Helvetica, Arial, Sans-serif;
+            line-height: 1.6;
+        }
+
+        .circular-msg .sub-header-text {
+            font: 400 1.4rem "mns-london", Helvetica, Arial, Sans-serif;
+            font-weight: 400;
+            line-height: 1.6;
+        }
+
+        .calculator-section .calculator-section__link {
+            margin: 0;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #000;
+            display: flex;
+            justify-content: center;
+        }
+
+        input.calcultorInputBox::placeholder {
+            align-items: center;
+            color: #cccccc;
+            font-size: 48px !important;
+            padding: 10px;
+            font-style: normal !important;
+        }
+
+        .calculator-section .calculator-section__terms {
+            font: 400 1.4rem "mns-london", Helvetica, Arial, Sans-serif;
+            line-height: 1.6;
+            margin: 2.4rem auto;
+            max-width: 870px;
+        }
+
+        .calculator-section .calculator-section__terms p {
+            margin: 0;
+        }
+
+
+        .steps-for-e-gift {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 3.2rem;
+            padding: 8rem 0;
+        }
+
+        .steps-for-e-gift__header h2 {
+            font-size: 2.8rem;
+            line-height: 4.2rem;
+            font-family: "mns-london-bold";
+            text-transform: none;
+            margin: 0;
+            text-align: center;
+        }
+
+        .steps-for-e-gift__steps {
+            display: flex;
+            gap: 5rem;
+            align-items: start;
+            padding-bottom: 1.6rem;
+        }
+
+        .steps-for-e-gift__single-step {
+            width: 394px;
+            text-align: center;
+        }
+
+        .steps-for-e-gift__single-step-hdr {
+            font-family: "mns-london-bold";
+            font-size: 2rem;
+            line-height: 2.8rem;
+            margin-bottom: 8px;
+        }
+
+        .steps-for-e-gift__single-step-sub-hdr {
+            font-family: "mns-london";
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 2.6rem;
+        }
+
+        .steps-for-e-gift__cta a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-sizing: border-box;
+            height: 4.8rem;
+            width: 220px;
+            padding: 1rem 1.6rem;
+            margin: auto;
+            background: #bdd755;
+            font-family: "mns-london-bold";
+            font-size: 1.6rem;
+            line-height: 2.6rem;
+            color: #222;
+            text-decoration: none;
+            outline: none;
+            border: none;
+        }
+
+        .next-steps-eligilibity p {
+            color: #000;
+            font-size: 14px;
+            margin-top: 1em;
+            text-align: center;
+        }
+
+        .eligibility-copy {
+            font-size: 14px;
+            margin-top: -.5em;
+        }
+
+        .first-variant {
+            background-color: #fff;
+        }
+
+        .first-variant-heading {
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+
+        .first-variant-sub-heading {
+            margin-bottom: 16px;
+            text-align: center;
+            font-size: 16px;
+        }
+
+
+        .benefits-enjoy {
+            background-color: #172D30;
+            display: flex;
+            flex-direction: row;
+            padding: 20px 24px;
+            margin: 16px 0;
+            color: #fff;
+        }
+
+        .benefits-enjoy-text {
+            margin-left: 24px;
+            align-self: center;
+        }
+
+        .app-download {
+            background-color: #F5F5F5;
+            display: flex;
+            flex-direction: row;
+            padding: 24px 0;
+            margin: 0 80px 64px;
+            border-radius: 8px;
+            gap: 24px;
+            margin-bottom: 5em !important;
+        }
+
+        .app-download-img {
+            display: flex;
+            align-self: center;
+            gap: 16px;
+        }
+
+        .app-download-img-mobile {
+            display: none;
+        }
+
+        .app-download-img-qr {
+            width: 100px;
+        }
+
+        /* .app-download-img-icon {
+width: 48px;
+} */
+
+        .app-download-img-icon-mobile {
+            /* width: 140px; */
+            height: 40px;
+            margin-bottom: 2em;
+        }
+
+        .app-download-list {
+            margin-bottom: 8px;
+        }
+
+        .finder-award {
+            background-color: #F5F5F5;
+            display: flex;
+            flex-direction: row;
+            padding: 24px 32px;
+            justify-content: center;
+            gap: 40px;
+            align-content: center;
+            align-items: center;
+        }
+
+        .awards-section {
+            background-color: #F5F5F5;
+            display: flex;
+            padding: 24px 32px;
+            justify-content: center;
+            gap: 40px;
+            align-content: center;
+            align-items: center;
+        }
+
+        .awards-section p {
+            font-family: 'mns-london';
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 28px;
+            max-width: 648px;
+        }
+
+        .finder-award-img {
+            width: 180px;
+        }
+
+        .benefits-heading-ab {
+            font-size: 20px;
+            margin-bottom: 12px;
+            font-weight: 600;
+            line-height: 28px;
+            color: #ffff;
+        }
+
+        .benefits-text-ab {
+            font-size: 14px;
+            line-height: 22px;
+            text-align: left;
+        }
+
+        .next-steps-eligilibity {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 40px;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+        }
+
+        .next-steps-eligilibity-btns {
+            display: flex;
+            gap: 16px;
+            flex-direction: row;
+            width: auto;
+            height: 48px;
+        }
+
+        .next-steps-eligilibity-txt {
+            max-width: 640px;
+            font-size: 14px;
+            font-family: mns-london;
+            line-height: 22px;
+            text-align: center;
+            margin: 24px 0 0;
+        }
+
+        .steps-for-e-gift__cta {
+            width: auto;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+
+        .header-buttons {
+            gap: 25px;
+            display: flex;
+        }
+
+        .cc-rate-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            justify-content: center;
+            align-items: center;
+            z-index: 9999999;
+            overflow: auto;
+        }
+
+        .cc-rate-modal-content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            overflow-y: auto;
+            margin: 16px auto;
+            font-family: "mns-london" !important;
+            font-style: normal;
+            font-variant-ligatures: normal;
+            font-variant-caps: normal;
+            font-variant-numeric: normal;
+            font-variant-east-asian: normal;
+            font-weight: 400;
+            font-stretch: normal;
+            font-size: 16px;
+            max-width: 812px;
+            max-height: 417px;
+        }
+
+        /* Close button style */
+        .cc-rate-modal-close {
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+        }
+
+        .cc-rate-modal-head {
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .cc-rate-modal-body {
+            padding: 0 24px;
+        }
+
+        .cc-rate-modal-content-title {
+            margin: 24px 0;
+            font-family: 'mns-london-bold';
+            font-size: 16px;
+            font-style: normal;
+            line-height: 26px;
+        }
+
+        .cc-rate-modal-content-text {
+            font-family: "mns-london";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 26px;
+        }
+
+        .v-one {
+            color: #fff;
+            font-family: "mns-london-bold" !important;
+        }
+
+        .v-one-sub {
+            color: #fff;
+            font-family: "mns-london" !important;
+        }
+
+        .app-download-text-heading {
+            margin-bottom: 8px;
+            font-family: "mns-london-bold";
+        }
+
+        .app-download-text-li {
+            margin-bottom: 8px;
+        }
+
+        /* styles.css */
+        .faq-container {
+            max-width: 1280px;
+            margin: 30px auto 64px;
+        }
+
+        .faq-title {
+            font-family: 'mns-london-bold';
+            font-size: 30px;
+            color: #000;
+            line-height: 40px;
+            text-align: center;
+            margin-bottom: 32px;
+        }
+
+        .faq-item {
+            border-bottom: 1px solid #ccc;
+            padding: 10px 0;
+            position: relative;
+            /* Added for arrow positioning */
+            /* margin: 0 40px 10px; */
+        }
+
+        .question {
+            font-size: 2.0rem;
+            padding: 1.6rem 4.8rem 1.6rem 0;
+            color: #000;
+            cursor: pointer;
+            font-weight: 400;
+            line-height: 2.8rem;
+            margin-bottom: 0;
+            position: relative;
+            width: auto;
+        }
+
+        .arrow {
+            position: absolute;
+            top: 16px;
+            right: 0px;
+            transform: rotate(90deg);
+        }
+
+        .answer {
+            display: none;
+            padding: 0 0 1.6rem;
+            font-size: 1.4rem;
+            line-height: 2.4rem;
+            font-weight: 400;
+            letter-spacing: 0;
+        }
+
+        .ready-to-apply {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+            align-items: center;
+            background: #000000;
+            padding: 64px 0;
+        }
+
+        .ready-to-apply-title {
+            color: #fff;
+            text-transform: uppercase;
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 40px;
+        }
+
+        .get-support {
+            display: grid;
+            grid-template-columns: 5fr 1fr;
+            gap: 24px;
+            align-items: center;
+            background: #F5F5F5;
+            padding: 2.2em 2em;
+        }
+
+        .get-support-title {
+            color: #000000;
+            text-transform: none;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 40px;
+            text-align: left;
+        }
+
+        .get-support-description {
+            color: #000000;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 26px;
+            text-align: left;
+        }
+
+        .app-download-text {
+            border-right: none;
+            border-bottom: none;
+            padding: 0;
+        }
+
+        .banner-text-first-variation-first-heading {
+            font-size: 16px;
+            line-height: 26px;
+            font-family: "mns-london-bold";
+            color: #fff;
+            text-align: center;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+
+        .banner-text-first-variation-first-subheading {
+            text-align: center;
+            font-family: "mns-london-bold";
+            font-size: 36px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 44px;
+            color: #fff;
+            margin-bottom: 16px;
+        }
+
+        .banner-text-first-variation-first-description {
+            color: #ffff;
+            text-align: center;
+            font-family: "mns-london";
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px;
+            margin-bottom: 24px;
+        }
+
+        #banner_text_first_variation {
+            margin: 90px auto;
+        }
+
+        #banner_text_second_variation {
+            margin: 90px auto;
+        }
+
+        .banner-text-first-variation-second-heading {
+            text-align: center;
+            font-family: "mns-london-bold";
+            font-size: 36px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 44px;
+            color: #fff;
+            margin-bottom: 16px;
+        }
+
+        .banner-text-first-variation-second-subheading {
+            text-align: center;
+            font-family: "mns-london-bold";
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px;
+            color: #fff;
+            margin-bottom: 24px;
+        }
+
+        .data-creditcard-apply-now {
+            background-color: #ffffff;
+            font-family: "mns-london";
+            font-size: 16px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            gap: 0.5em;
+            line-height: 30px;
+        }
+
+        .calc-area .data-creditcard-apply-now {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: "mns-london";
+            font-size: 16px;
+            text-align: center;
+            display: flex;
+            gap: 0.5em;
+            line-height: 30px;
+        }
+
+        .representative-example .data-creditcard-apply-now::after {
+            content: url(https://static.marksandspencer.com/icons/svgs/ArrowRight-v3-1.svg?key=v3);
+            position: relative;
+            top: 6px;
+
+        }
+
+        .calc-area .data-creditcard-apply-now::after {
+            content: url(https://static.marksandspencer.com/icons/svgs/ArrowRight-v3-1.svg);
+            filter: invert(1);
+            position: relative;
+            top: 6px;
+        }
+
+        .apply-now-width {
+            width: auto;
+        }
+
+        /* class for transparent white button - check elegibility */
+        .data-creditcard-eligibility {
+            background-color: transparent !important;
+            border: 1px solid #ffffff !important;
+            font-family: "mns-london";
+            font-size: 16px;
+            line-height: 30px;
+            text-align: center;
+            color: #fff !important;
+        }
+
+        .representative-example .data-creditcard-eligibility::after {
+            content: url(https://static.marksandspencer.com/icons/svgs/ArrowRight-v3-1.svg?key=v3);
+            filter: invert(1);
+            position: relative;
+            top: 7px;
+        }
+
+        .data-creditcard-eligibility a,
+        .data-creditcard-eligibility a:hover {
+            color: #fff;
+        }
+
+        /* class for transparent black button - check elegibility r*/
+        .calc-area .data-creditcard-eligibility {
+            background-color: transparent !important;
+            border: 1px solid #000000 !important;
+            font-family: "mns-london";
+            font-size: 16px;
+            line-height: 30px;
+            text-align: center;
+            color: #000000 !important;
+            display: flex;
+            flex: auto;
+            gap: .5em;
+        }
+
+        .calc-area .data-creditcard-eligibility::after {
+            content: url(https://static.marksandspencer.com/icons/svgs/ArrowRight-v3-1.svg);
+            position: relative;
+            top: 3px;
+        }
+
+        .calc-area .data-creditcard-eligibility a,
+        .calc-area .data-creditcard-eligibility a:hover {
+            color: #000000;
+        }
+
+
+
+        .ready-to-apply {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+            align-items: center;
+            background: #000000;
+            padding: 64px 0;
+        }
+    }
+
+
+
+    /* *********desktop ***********************************************************************************************************************************************************************/
+    /* *********desktop ***********************************************************************************************************************************************************************/
+    /* *********desktop ***********************************************************************************************************************************************************************/
+    /* *********desktop ***********************************************************************************************************************************************************************/
+    /* *********desktop ***********************************************************************************************************************************************************************/
+    /* *********desktop ***********************************************************************************************************************************************************************/
+    /* *********desktop ***********************************************************************************************************************************************************************/
+    /* *********desktop ***********************************************************************************************************************************************************************/
+    /* *********desktop ***********************************************************************************************************************************************************************/
+    @media (min-width:1920px) {
+
+        .wrap {
+            width: 100% !important;
+            overflow: hidden !important;
+        }
+
+        .landingpage-container-content {
+            display: flex;
+            align-items: center;
+            background-color: #f5f5f5;
+        }
+
+        .landing-page-container-image-link {
+            width: 50%;
+        }
+
+        .f_bold,
+        b {
+            font-family: "mns-london-bold", Arial, Helvetica, sans-serif;
+            font-weight: normal;
+        }
+
+        /* #banner_text_default_variation {
+            padding: 7em 14em;
+        } */
+
+        .landing-page-container-link-content-heading {
+            font-size: 20px;
+            line-height: 28px;
+            margin-bottom: 12px;
+        }
+
+        .desktop-image {
+            display: block;
+        }
+
+        .mobile-image {
+            display: none;
+        }
+
+        .five-x-section {
+            display: grid;
+            grid-auto-flow: column;
+            grid-template-columns: 1fr 1fr;
+            background-color: #f5f5f5;
+        }
+
+        .five-x-section-icon {
+            margin: auto;
+        }
+
+        .five-x-section-copy {
+            display: grid;
+            padding: 0 2em;
+            align-content: center;
+        }
+
+        .five-x-section-copy p {
+            text-align: center;
+            font-size: 20px;
+
+        }
+
+        .five-x-section-copy h3 {
+            text-align: center;
+            font-family: "mns-london-bold";
+            font-size: 28px;
+            line-height: 38px;
+            margin-bottom: 10px;
+
+        }
+
+        .steps-for-e-gift.more-steps {
+            padding: 6em;
+        }
+
+        .customer-voucher-section {
+            display: flex;
+            background-color: #f5f5f5;
+            margin-top: 6em;
+        }
+
+        .customer-voucher-section-copy {
+            width: 50%;
+            text-align: center;
+            align-content: center;
+        }
+
+        .customer-voucher-section-image {
+            width: 50%;
+        }
+
+        .customer-voucher-section h3 {
+            font-family: "mns-london-bold";
+            font-size: 28px;
+        }
+
+
+        .landing-page-container-link-content-subheading {
+            font-size: 28px;
+            line-height: 38px;
+            margin-bottom: 8px;
+            font-weight: normal;
+            font-family: "mns-london-bold";
+            color: #000;
+            text-align: center;
+        }
+
+        .landing-page-container-image {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            z-index: 0;
+        }
+
+        .c-row {
+            display: flex;
+            justify-content: space-between;
+            flex-direction: row;
+            margin: auto;
+        }
+
+        .c-row-image {
+            height: auto;
+            background-color: #ffffff;
+            background-image: url(https://assets.digitalcontent.marksandspencer.app/image/upload/w_1920/v1733400058/bank-jan-25-hero-banner-1920.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 50%;
+        }
+
+        .first-variation {
+            margin-right: 100px;
+        }
+
+        .c-row-text {
+            background-color: #ffffff;
+            background-size: cover;
+            padding: 36em 1em;
+            width: 50%;
+        }
+
+        .more-points-section-title {
+            padding: 3em 28rem 3rem;
+        }
+
+        .rewards-points-copy {
+            text-align: center;
+            margin-top: 5em;
+            margin-bottom: 7em;
+        }
+
+        .rewards-points-copy h3 {
+            font-size: 20px;
+            font-family: "mns-london-bold";
+            margin-bottom: 0.8em;
+        }
+
+        .rewards-points-copy p {
+            font-size: 18px;
+            margin-bottom: 2em;
+        }
+
+        .more-points-section-title h2 {
+            text-align: center;
+            font-family: "mns-london";
+            font-size: 24px;
+            line-height: 32px;
+            font-weight: 400;
+        }
+
+        .representative-banner {
+            background-color: #222222;
+        }
+
+        .more-points-section {
+            display: flex;
+            margin-bottom: 6em;
+            padding: 0px 80px;
+        }
+
+        .landing-page-container-terms {
+            font-size: 16px;
+            line-height: 28px;
+            margin-bottom: 16px;
+            font-weight: 400;
+            color: #222222;
+            text-align: center;
+        }
+
+        .landing-page-container-sub-heading {
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px;
+            font-family: mns-london;
+            color: #ffff;
+            margin-bottom: 16px;
+        }
+
+        .landing-page-container-sub-heading-var-one {
+            font-size: 28px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 38px;
+            font-family: mns-london;
+            color: #ffff;
+            margin-bottom: 16px;
+            width: 408px;
+        }
+
+        .landing-page-container-image-image {
+            width: 100%;
+            height: 100%;
+        }
+
+
+        .discover-benefits-button {
+            font-size: 16px;
+            padding: 16px 60px;
+            border: 1px solid;
+            color: #fff;
+            background-color: #000;
+        }
+
+        .get-support-find-out-more {
+            background-color: #222222;
+            color: #fff;
+            margin: auto;
+        }
+
+        .mnds-bank-banner__container-link-content-button {
+            font-size: 16px;
+            padding: .33em 1.01em;
+            color: #fff;
+            line-height: 38px;
+        }
+
+
+        .mnds-bank-banner__container-link-content-button p {
+            font-size: 16px;
+            padding: 10px 11px;
+            color: #fff;
+            line-height: 28px;
+        }
+
+        .card-image-desktop {
+            position: absolute;
+            z-index: 1;
+            bottom: 32px;
+            width: 250px;
+            left: 32px;
+        }
+
+        .card-image-mobile {
+            position: absolute;
+            z-index: 1;
+            bottom: 32px;
+            left: 32px;
+        }
+
+        .terms-conditions-text {
+            color: #000;
+            font-size: 12px;
+            line-height: 18px;
+            text-align: center;
+        }
+
+        .terms-conditions-text-span {
+            display: inline;
+        }
+
+        .landing-page-container-link-content {
+            max-width: 100%;
+            margin: auto
+        }
+
+        .sign-in {
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 22px;
+            letter-spacing: 0px;
+        }
+
+        .sign-in-mobile {
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 22px;
+            letter-spacing: 0px;
+        }
+
+        .benefits-mainheading {
+            text-align: center;
+            font-size: 30px;
+            margin-bottom: 40px;
+            font-family: "mns-london-bold";
+            line-height: 40px;
+        }
+
+        .e-gift-card {
+            background-color: #dfece2;
+            padding: 24px 16px 24px 16px;
+            text-align: center;
+            border-radius: 8px;
+        }
+
+        .image {
+            margin-bottom: 8px;
+        }
+
+        .benefits-heading {
+            font-size: 20px;
+            margin-bottom: 8px;
+            line-height: 28px;
+            font-family: 'mns-london-bold';
+        }
+
+        .benefits-subheading {
+            font-size: 14px;
+            line-height: 22px;
+            font-family: 'mns-london';
+        }
+
+        .Apr-main-heading {
+            font-size: 18px;
+            color: white;
+            font-family: "mns-london-bold" !important;
+            line-height: 28px;
+        }
+
+        .APR-section-content {
+            padding: 32px 24px 24px 32px;
+            text-align: center;
+        }
+
+        .Apr-heading {
+            font-size: 30px;
+            margin-bottom: 0px;
+            color: white;
+            line-height: 40px;
+        }
+
+        .Apr-subheading {
+            font-size: 12px;
+            line-height: 26px;
+            font-family: "mns-london-bold";
+            color: white;
+        }
+
+        .Apr-v-one-main-heading {
+            font-size: 20px;
+            color: #fff;
+            font-family: "mns-london-bold" !important;
+            line-height: 22px;
+            margin-bottom: 12px;
+        }
+
+        .Apr-v-one-main-subheading {
+            font-size: 14px;
+            color: #fff;
+            font-family: "mns-london" !important;
+            line-height: 22px;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        .Apr-v-one-main-subheading-mobile {
+            font-size: 14px;
+            color: #fff;
+            font-family: "mns-london" !important;
+            line-height: 22px;
+            text-decoration: underline;
+            display: none;
+        }
+
+        .rewards-main-heading {
+            text-align: center;
+            font-size: 30px;
+            margin-bottom: 32px;
+            color: white;
+            font-family: "mns-london-bold";
+        }
+
+        .rewards-main-heading-ab {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 32px;
+            color: black;
+            font-family: "mns-london-bold";
+        }
+
+        .rewards-section-content {
+            text-align: center;
+            color: white;
+        }
+
+        .rewards-section-content-ab {
+            text-align: center;
+            color: black;
+            max-width: 346px;
+        }
+
+        .rewards-heading {
+            font-size: 24px;
+            margin-bottom: 16px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+        }
+
+        .rewards-subheading {
+            font-size: 16px;
+            line-height: 26px;
+            color: white;
+        }
+
+        .rewards-subheading-one-ab {
+            font-size: 20px;
+            line-height: 28px;
+            color: black;
+            margin-bottom: 8px;
+            font-family: "mns-london-bold";
+        }
+
+        .rewards-subheading-two-ab {
+            font-size: 16px;
+            line-height: 26px;
+            color: black;
+        }
+
+        .account-section-container-content {
+            display: flex;
+            align-items: center;
+        }
+
+        .account-access-mainheading {
+            font-size: 30px;
+            margin-bottom: 16px;
+        }
+
+        .account-section-subheading {
+            font-size: 20px;
+        }
+
+        .account-access-content {
+            font-size: 16px;
+        }
+
+        .other-benefits-heading {
+            text-align: center;
+            margin-bottom: 24px;
+            margin-top: 64px;
+        }
+
+        .other-benefits-section-heading {
+            font-size: 20px;
+            font-weight: 600;
+            line-height: 26px;
+        }
+
+        .other-benefits-content {
+            padding: 0px 16px 0px 16px;
+            margin-bottom: 64px;
+        }
+
+        .other-benefits-points {
+            font-size: 20px;
+            text-align: center;
+            padding: 8px;
+            font-weight: 600;
+        }
+
+        .other-benefits-subheading {
+            font-size: 16px;
+            text-align: center;
+            font-weight: 400;
+            line-height: 26px;
+        }
+
+        .other-benefits-image {
+            display: flex;
+            justify-content: center;
+        }
+
+        .other-benefits-sections {
+            margin-bottom: 64px;
+        }
+
+        .rewards-points-subsection-content {
+            font-size: 16px;
+            line-height: 26px;
+        }
+
+        .rewards-points-section-container {
+            background-color: #222;
+            padding: 3em;
+        }
+
+        .rewards-points-section-container-ab {
+            background-color: #ffff;
+        }
+
+        .shopping-offer-image {
+            width: 75px;
+            height: 48px;
+            margin-bottom: 24px;
+        }
+
+        .shopping-offer-text {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 24px;
+            font-size: 16px;
+            line-height: 26px;
+            font-weight: 400;
+        }
+
+        .card-image-desktop-image {
+            width: 250px;
+        }
+
+        .landing-page-container-image-tablet {
+            position: relative;
+            z-index: 0;
+        }
+
+        .landing-page-container-image-mobile {
+            position: relative;
+        }
+
+        .eligibility-check-content {
+            font-size: 16px;
+            font-weight: 600;
+            line-height: 26px;
+            letter-spacing: 0px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .shop-straigh-away-content {
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 26px;
+            letter-spacing: 0px;
+            text-align: left;
+            margin-bottom: 24px;
+        }
+
+        .terms-conditions-container p {
+            font-size: 14px;
+            line-height: 22px;
+            letter-spacing: 0px;
+            text-align: left;
+        }
+
+        .account-section-list {
+            list-style: disc;
+            padding-left: 30px;
+        }
+
+        .account-section-image-tablet-image {
+            margin-top: 214px;
+            position: absolute;
+            right: 0;
+            bottom: 0;
+        }
+
+        .rewards-points-subsection-content2 {
+            font-weight: 600;
+            line-height: 30px;
+        }
+
+        .total-rewards {
+            display: flex;
+            justify-content: center;
+        }
+
+        .mobile-app-header {
+            margin-right: 530px !important;
+        }
+
+        .terms-conditions-container {
+            padding: 48px 16px;
+            max-width: 1280px;
+            margin: auto;
+        }
+
+        .terms-conditions-title {
+            font-family: 'mns-london-bold';
+            font-size: 24px;
+            margin-bottom: 24px;
+            text-align: center;
+        }
+
+        .apply-now-header-link {
+            padding: 10px 30px !important;
+        }
+
+        .mobile-app-section {
+            max-width: 1128px;
+            margin: 0 auto;
+            background-color: #e0e4e7;
+        }
+
+        .card-section-subheading {
+            font-size: 20px;
+            text-align: center;
+            margin: 12px 0;
+            font-family: 'mns-london';
+        }
+
+        .representative-example {
+            padding: 16px 60px;
+            display: flex;
+            gap: 2em;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .skinny-banner-section {
+            background-color: #DFECE2;
+            display: flex;
+            padding: 2em 2em;
+            margin-top: 4em;
+
+        }
+
+        .skinny-banner-icon {
+            align-items: center;
+        }
+
+        .skinny-banner-copy {
+            font-size: 16px;
+            align-content: center;
+            font-family: "mns-london-bold";
+            padding: 2em;
+        }
+
+        #all-benefits {
+            /* padding: 1em 2em; */
+        }
+
+        .rewards-point-heading {
+            text-align: center;
+        }
+
+        .rewards-point-heading-first {
+            font-size: 56px;
+            font-weight: 600;
+            color: #fff;
+            font-family: 'mns-london';
+        }
+
+        .rewards-point-heading-second {
+            font-size: 16px;
+            font-weight: 400;
+            color: #fff;
+            font-family: 'mns-london';
+        }
+
+        .rewards-point-desc {
+            text-align: center;
+            font-family: 'mns-london';
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 26px;
+            color: #fff;
+            margin-top: 16px;
+        }
+
+        .navbar-container {
+            background-color: #f5f5f5;
+            height: 46px;
+            width: 100%;
+        }
+
+        /* Common styles for all list items */
+        .navbar-content {
+            display: flex;
+            justify-content: center;
+            color: white;
+            font-size: 14px;
+            line-height: 22px;
+            align-items: center;
+            list-style: none;
+            padding: 7px;
+            margin: auto;
+            max-width: 1280px;
+        }
+
+        .navbar-container-content {
+            margin-right: 20px;
+            /* Adjust this value as needed */
+        }
+
+        /* Styles for the right-aligned list item */
+        .right-item {
+            margin-left: auto;
+            margin-right: 60px;
+
+        }
+
+        .left-item {
+            margin-left: 60px;
+        }
+
+        .uline a {
+
+            border-bottom: 1px solid #222222;
+        }
+
+        .arrow-link {
+            margin-top: 2em;
+            top: .5em;
+            position: relative;
+        }
+
+        .ms-vouchers-section {
+            padding: 60px 40px !important;
+
+        }
+
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        /* Firefox */
+        input[type="number"] {
+            -moz-appearance: textfield;
+        }
+
+        .calculator-area {
+            display: none;
+        }
+
+        .calculator-area.active {
+            display: block;
+        }
+
+        #calculatorContainer {
+            background-color: #dfece2;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 124px 24px;
+            gap: 10px;
+        }
+
+        .calculatorHeading {
+            height: 40px;
+            font-style: normal;
+            font-weight: 550;
+            font-size: 30px;
+            line-height: 40px;
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        .calculatorDescription {
+            font-style: normal;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: center;
+            padding-bottom: 10px;
+        }
+
+        #calculatorInputs {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin: auto;
+            gap: 80px;
+        }
+
+        .calculatorInputHeading {
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 26px;
+            text-align: center;
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+        }
+
+        .calculatorInputDescription {
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 22px;
+            text-align: center;
+        }
+
+        .calcultorInputBox {
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+            gap: 15px;
+            width: 220px;
+            height: 80px;
+            background: #ffffff;
+            border: 1px solid #cccccc;
+            flex: none;
+            order: 1;
+            flex-grow: 0;
+            outline: none;
+            text-align: center;
+            font-family: "New MS London";
+            font-weight: 400;
+            line-height: 63px;
+            text-align: center;
+            font-size: 48px !important;
+        }
+
+        .calcultorInputFooter {
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 22px;
+            display: flex;
+            align-items: center;
+            margin-top: 8px;
+        }
+
+        .calculatorRewardPoint {
+            margin-left: 10px;
+        }
+
+        .calculatorVoucherBox {
+            justify-content: space-between;
+        }
+
+        .calculatorInputDescription2 {
+            font-style: normal;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 22px;
+            text-align: center;
+        }
+
+        .calculatorVoucherFirstYear,
+        .calculatorVoucherNextYear {
+            font-weight: 400;
+            font-size: 48px;
+            line-height: 63px;
+            text-align: center;
+            margin-top: 0px;
+        }
+
+        #calculatorFooter {
+            padding: 24px 48px;
+            background-color: #222222;
+            margin: auto;
+        }
+
+        .calculatorInputs2 {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin: auto;
+            gap: 80px;
+            align-items: center;
+        }
+
+        .calcultorLastCard1 {
+            width: 60%;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            color: white;
+        }
+
+        .calcultorLastCard1>div>p {
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 26px;
+        }
+
+        .calcultorLastCard2 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .calculatorCardImage {
+            height: 64px;
+            padding: 0px;
+            width: 100px;
+        }
+
+        .calculatorLink {
+            color: white;
+        }
+
+        .accordion1,
+        .accordion2 {
+            width: 30px;
+        }
+
+        .other-benefits-mainheading {
+            font-weight: 600;
+        }
+
+        .smallViewOpen,
+        .smallViewClose {
+            display: none;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .smallViewOpenB,
+        .smallViewCloseB {
+            display: none;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        /* .smallViewText {
+        text-decoration: underline;
+      } */
+        .calculatorForm {
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            width: 60%;
+        }
+
+        .calculatorInputs3 {
+            display: none;
+            text-align: center;
+            width: 100%;
+            margin: auto;
+            color: white;
+        }
+
+        .calculatorMobileFooter {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: auto;
+        }
+
+        .voucher-heading {
+            white-space: nowrap;
+        }
+
+        .earn-your-voucher-section {
+            background-color: #DFECE2;
+            text-align: center;
+            margin: 5em 0;
+            padding: 3em;
+
+
+        }
+
+        .earn-your-voucher-section h3 {
+            font-size: 24px;
+            font-family: "mns-london-bold";
+        }
+
+        .earn-your-voucher-cards {
+            display: flex;
+            justify-content: center;
+            gap: 3em;
+        }
+
+        .earn-card-item {
+
+            padding: 4em 6em;
+            width: 342px;
+        }
+
+
+        .earn-card-item h5 {
+            background-color: #000;
+            color: #fff;
+            border-radius: 50%;
+
+        }
+
+        .earn-card-item p {
+            font-size: 16px;
+        }
+
+        .circle {
+            display: inline-block;
+            line-height: 0px;
+            border-radius: 50%;
+            font-size: 16px;
+            background-color: rgb(0, 0, 0);
+            color: white;
+            margin-bottom: 1em;
+        }
+
+        .circle span {
+            display: inline-block;
+            padding-top: 50%;
+            padding-bottom: 50%;
+            margin-left: 8px;
+            margin-right: 8px;
+        }
+
+        /* Calc-Section */
+        .text-center-align {
+            text-align: center;
+        }
+
+        .calculator-toggle {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font: 400 1.6rem "mns-london-bold", Helvetica, Arial, Sans-serif;
+            cursor: pointer;
+        }
+
+        a.calculator-toggle svg {
+            transition: all 0.5s ease-in-out;
+        }
+
+        a.calculator-toggle.active svg {
+            transform: rotate(180deg);
+            transition: all 0.5s ease-in-out;
+        }
+
+        /* .calc-area {
+            opacity: 0;
+            max-height: 0;
+            transition: all 0.5s ease-in-out;
+        } */
+
+        .calc-area {
+            opacity: 1;
+            max-height: 860px;
+            /* transition: all 0.5s ease-in-out; */
+            margin-top: 1.6rem;
+        }
+
+        .calc-area.active {
+            opacity: 1;
+            max-height: 860px;
+            /* transition: all 0.5s ease-in-out; */
+            margin-top: 1.6rem;
+        }
+
+        .calculator-section {
+            box-sizing: border-box;
+            text-align: left;
+            padding: 2.4rem 24.8rem;
+            border-top: 1px solid #e0e4e7;
+            margin: auto;
+            background: #f5f5f5;
+            color: #000;
+            margin: auto;
+        }
+
+        .calculator-section .header {
+            margin-top: 0;
+            margin-bottom: 2.4rem;
+        }
+
+        .calculator-section .header h2 {
+            color: #000;
+            line-height: 1.3;
+            margin-top: 0;
+            margin-bottom: 1.6rem;
+            text-transform: uppercase;
+            font: 600 3rem "mns-london", Helvetica, Arial, Sans-serif !important;
+        }
+
+        .calculator-section h3 {
+            font-size: 24px;
+            line-height: 30px;
+            font-family: "mns-london-bold";
+            margin-bottom: 1em;
+        }
+
+        .calculator-section p {
+            font-size: 16px;
+            line-height: 26px;
+            margin-bottom: 1.5em;
+        }
+
+        .calculator-section .header p {
+            line-height: 1.4;
+            font: 400 1.6rem "mns-london", Helvetica, Arial, Sans-serif;
+        }
+
+        .calculator {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 6.4rem;
+        }
+
+        .calculator .input-fields {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 0;
+        }
+
+        .input-fields input,
+        .input-fields input::placeholder {
+            width: 214px;
+            height: 54px;
+            font-size: 28px;
+            text-align: center;
+            color: #000;
+            border: 1px solid #999999;
+            outline: none;
+            padding: 0;
+            font-style: normal;
+            margin-top: 0.2em;
+        }
+
+        .input-fields input {
+            color: #000;
+        }
+
+        .calculator .total-reward-points,
+        .calculator .input-field {
+            width: 240px;
+            overflow-x: hidden;
+        }
+
+        .total-reward-points.text-align-center {
+            text-align: center;
+        }
+
+        /* Chrome, Safari, Edge, Opera */
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        /* Firefox */
+        input[type="number"] {
+            appearance: none;
+            -moz-appearance: textfield;
+        }
+
+        .calculator .small-font {
+            font: 400 1.4rem "mns-london", Helvetica, Arial, Sans-serif;
+            line-height: 1.6;
+            letter-spacing: 0px;
+
+            margin: 0;
+        }
+
+        .calculator .medium-font {
+            font-family: "mns-london-bold", Helvetica, Arial, Sans-serif;
+            font-size: 14px;
+            line-height: 22px;
+
+
+            margin: 0;
+        }
+
+        .calculator .reward-points {
+            text-align: left;
+            margin-top: 1.2rem;
+        }
+
+        .calculator .monthly-spend-eg {
+            margin-bottom: 1.2rem;
+        }
+
+        .calculator .voucher-amount {
+            /* font: 400 4.8rem "mns-london", Helvetica, Arial, Sans-serif; */
+            font-family: "mns-london-bold", Helvetica, Arial, Sans-serif;
+            font-size: 40px;
+            line-height: 50px;
+            margin: 1.2rem 0;
+            text-align: center;
+            /* overflow: scroll; */
+        }
+
+        .calculator .voucher-amount::-webkit-scrollbar {
+            -webkit-appearance: none;
+            display: none;
+        }
+
+        .calculator-section .circular-msg {
+            display: flex;
+            align-items: end;
+            justify-content: center;
+            gap: 3.2rem;
+        }
+
+        .circular-msg .circle-icon {
+            padding-bottom: 1.6rem;
+        }
+
+        .circular-msg .header-text {
+            font: 600 1.6rem "mns-london", Helvetica, Arial, Sans-serif;
+            line-height: 1.6;
+        }
+
+        .circular-msg .sub-header-text {
+            font: 400 1.4rem "mns-london", Helvetica, Arial, Sans-serif;
+            font-weight: 400;
+            line-height: 1.6;
+        }
+
+        .calculator-section .calculator-section__link {
+            margin: 0;
+            font-size: 16px;
+            line-height: 1.6;
+            color: #000;
+            display: flex;
+            justify-content: center;
+        }
+
+        input.calcultorInputBox::placeholder {
+            align-items: center;
+            color: #cccccc;
+            font-size: 48px !important;
+            padding: 10px;
+            font-style: normal !important;
+        }
+
+        .calculator-section .calculator-section__terms {
+            font: 400 1.4rem "mns-london", Helvetica, Arial, Sans-serif;
+            line-height: 1.6;
+            margin: 2.4rem auto;
+            max-width: 870px;
+        }
+
+        .calculator-section .calculator-section__terms p {
+            margin: 0;
+        }
+
+
+        .steps-for-e-gift {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 3.2rem;
+            padding: 8rem 0;
+        }
+
+        .steps-for-e-gift__header h2 {
+            font-size: 2.8rem;
+            line-height: 4.2rem;
+            font-family: "mns-london-bold";
+            text-transform: none;
+            margin: 0;
+            text-align: center;
+        }
+
+        .steps-for-e-gift__steps {
+            display: flex;
+            gap: 5rem;
+            align-items: start;
+            padding-bottom: 1.6rem;
+        }
+
+        .steps-for-e-gift__single-step {
+            width: 394px;
+            text-align: center;
+        }
+
+        .steps-for-e-gift__single-step-hdr {
+            font-family: "mns-london-bold";
+            font-size: 2rem;
+            line-height: 2.8rem;
+            margin-bottom: 8px;
+        }
+
+        .steps-for-e-gift__single-step-sub-hdr {
+            font-family: "mns-london";
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 2.6rem;
+        }
+
+        .steps-for-e-gift__cta a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-sizing: border-box;
+            height: 4.8rem;
+            width: 220px;
+            padding: 1rem 1.6rem;
+            margin: auto;
+            background: #bdd755;
+            font-family: "mns-london-bold";
+            font-size: 1.6rem;
+            line-height: 2.6rem;
+            color: #222;
+            text-decoration: none;
+            outline: none;
+            border: none;
+        }
+
+        .next-steps-eligilibity p {
+            color: #000;
+            font-size: 14px;
+            margin-top: 1em;
+            text-align: center;
+        }
+
+        .eligibility-copy {
+            font-size: 14px;
+            margin-top: -.5em;
+        }
+
+        .first-variant {
+            background-color: #fff;
+        }
+
+        .first-variant-heading {
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+
+        .first-variant-sub-heading {
+            margin-bottom: 16px;
+            text-align: center;
+            font-size: 16px;
+        }
+
+
+        .benefits-enjoy {
+            background-color: #172D30;
+            display: flex;
+            flex-direction: row;
+            padding: 20px 24px;
+            margin: 16px 0;
+            color: #fff;
+        }
+
+        .benefits-enjoy-text {
+            margin-left: 24px;
+            align-self: center;
+        }
+
+        .app-download {
+            background-color: #F5F5F5;
+            display: flex;
+            flex-direction: row;
+            padding: 24px 0;
+            margin: 0 80px 64px;
+            border-radius: 8px;
+            gap: 24px;
+            margin-bottom: 5em !important;
+        }
+
+        .app-download-img {
+            display: flex;
+            align-self: center;
+            gap: 16px;
+        }
+
+        .app-download-img-mobile {
+            display: none;
+        }
+
+        .app-download-img-qr {
+            width: 100px;
+        }
+
+        /* .app-download-img-icon {
+    width: 48px;
+} */
+
+        .app-download-img-icon-mobile {
+            /* width: 140px; */
+            height: 40px;
+            margin-bottom: 2em;
+        }
+
+        .app-download-list {
+            margin-bottom: 8px;
+        }
+
+        .finder-award {
+            background-color: #F5F5F5;
+            display: flex;
+            flex-direction: row;
+            padding: 24px 32px;
+            justify-content: center;
+            gap: 40px;
+            align-content: center;
+            align-items: center;
+        }
+
+        .awards-section {
+            background-color: #F5F5F5;
+            display: flex;
+            padding: 24px 32px;
+            justify-content: center;
+            gap: 40px;
+            align-content: center;
+            align-items: center;
+        }
+
+        .awards-section p {
+            font-family: 'mns-london';
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 28px;
+            max-width: 648px;
+        }
+
+        .finder-award-img {
+            width: 180px;
+        }
+
+        .benefits-heading-ab {
+            font-size: 20px;
+            margin-bottom: 12px;
+            font-weight: 600;
+            line-height: 28px;
+            color: #ffff;
+        }
+
+        .benefits-text-ab {
+            font-size: 14px;
+            line-height: 22px;
+            text-align: left;
+        }
+
+        .next-steps-eligilibity {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 40px;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+        }
+
+        .next-steps-eligilibity-btns {
+            display: flex;
+            gap: 16px;
+            flex-direction: row;
+            width: auto;
+            height: 48px;
+        }
+
+        .next-steps-eligilibity-txt {
+            max-width: 640px;
+            font-size: 14px;
+            font-family: mns-london;
+            line-height: 22px;
+            text-align: center;
+            margin: 24px 0 0;
+        }
+
+        .steps-for-e-gift__cta {
+            width: auto;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+
+        .header-buttons {
+            gap: 25px;
+            display: flex;
+        }
+
+        .cc-rate-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            justify-content: center;
+            align-items: center;
+            z-index: 9999999;
+            overflow: auto;
+        }
+
+        .cc-rate-modal-content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            overflow-y: auto;
+            margin: 16px auto;
+            font-family: "mns-london" !important;
+            font-style: normal;
+            font-variant-ligatures: normal;
+            font-variant-caps: normal;
+            font-variant-numeric: normal;
+            font-variant-east-asian: normal;
+            font-weight: 400;
+            font-stretch: normal;
+            font-size: 16px;
+            max-width: 812px;
+            max-height: 417px;
+        }
+
+        /* Close button style */
+        .cc-rate-modal-close {
+            top: 10px;
+            right: 10px;
+            cursor: pointer;
+        }
+
+        .cc-rate-modal-head {
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .cc-rate-modal-body {
+            padding: 0 24px;
+        }
+
+        .cc-rate-modal-content-title {
+            margin: 24px 0;
+            font-family: 'mns-london-bold';
+            font-size: 16px;
+            font-style: normal;
+            line-height: 26px;
+        }
+
+        .cc-rate-modal-content-text {
+            font-family: "mns-london";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 26px;
+        }
+
+        .v-one {
+            color: #fff;
+            font-family: "mns-london-bold" !important;
+        }
+
+        .v-one-sub {
+            color: #fff;
+            font-family: "mns-london" !important;
+        }
+
+        .app-download-text-heading {
+            margin-bottom: 8px;
+            font-family: "mns-london-bold";
+        }
+
+        .app-download-text-li {
+            margin-bottom: 8px;
+        }
+
+        /* styles.css */
+        .faq-container {
+            max-width: 1280px;
+            margin: 30px auto 64px;
+        }
+
+        .faq-title {
+            font-family: 'mns-london-bold';
+            font-size: 30px;
+            color: #000;
+            line-height: 40px;
+            text-align: center;
+            margin-bottom: 32px;
+        }
+
+        .faq-item {
+            border-bottom: 1px solid #ccc;
+            padding: 10px 0;
+            position: relative;
+            /* Added for arrow positioning */
+            /* margin: 0 40px 10px; */
+        }
+
+        .question {
+            font-size: 2.0rem;
+            padding: 1.6rem 4.8rem 1.6rem 0;
+            color: #000;
+            cursor: pointer;
+            font-weight: 400;
+            line-height: 2.8rem;
+            margin-bottom: 0;
+            position: relative;
+            width: auto;
+        }
+
+        .arrow {
+            position: absolute;
+            top: 16px;
+            right: 0px;
+            transform: rotate(90deg);
+        }
+
+        .answer {
+            display: none;
+            padding: 0 0 1.6rem;
+            font-size: 1.4rem;
+            line-height: 2.4rem;
+            font-weight: 400;
+            letter-spacing: 0;
+        }
+
+        .ready-to-apply {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+            align-items: center;
+            background: #000000;
+            padding: 64px 0;
+        }
+
+        .ready-to-apply-title {
+            color: #fff;
+            text-transform: uppercase;
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 40px;
+        }
+
+        .get-support {
+            display: grid;
+            grid-template-columns: 5fr 1fr;
+            gap: 24px;
+            align-items: center;
+            background: #F5F5F5;
+            padding: 2.2em 2em;
+        }
+
+        .get-support-title {
+            color: #000000;
+            text-transform: none;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 40px;
+            text-align: left;
+        }
+
+        .get-support-description {
+            color: #000000;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 26px;
+            text-align: left;
+        }
+
+        .app-download-text {
+            border-right: none;
+            border-bottom: none;
+            padding: 0;
+        }
+
+        .banner-text-first-variation-first-heading {
+            font-size: 16px;
+            line-height: 26px;
+            font-family: "mns-london-bold";
+            color: #fff;
+            text-align: center;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+
+        .banner-text-first-variation-first-subheading {
+            text-align: center;
+            font-family: "mns-london-bold";
+            font-size: 36px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 44px;
+            color: #fff;
+            margin-bottom: 16px;
+        }
+
+        .banner-text-first-variation-first-description {
+            color: #ffff;
+            text-align: center;
+            font-family: "mns-london";
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px;
+            margin-bottom: 24px;
+        }
+
+        #banner_text_first_variation {
+            margin: 90px auto;
+        }
+
+        #banner_text_second_variation {
+            margin: 90px auto;
+        }
+
+        .banner-text-first-variation-second-heading {
+            text-align: center;
+            font-family: "mns-london-bold";
+            font-size: 36px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 44px;
+            color: #fff;
+            margin-bottom: 16px;
+        }
+
+        .banner-text-first-variation-second-subheading {
+            text-align: center;
+            font-family: "mns-london-bold";
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 32px;
+            color: #fff;
+            margin-bottom: 24px;
+        }
+
+        .data-creditcard-apply-now {
+            background-color: #ffffff;
+            font-family: "mns-london";
+            font-size: 16px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            gap: 0.5em;
+            line-height: 30px;
+        }
+
+        .calc-area .data-creditcard-apply-now {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: "mns-london";
+            font-size: 16px;
+            text-align: center;
+            display: flex;
+            gap: 0.5em;
+            line-height: 30px;
+        }
+
+        .representative-example .data-creditcard-apply-now::after {
+            content: url(https://static.marksandspencer.com/icons/svgs/ArrowRight-v3-1.svg?key=v3);
+            position: relative;
+            top: 6px;
+
+        }
+
+        .calc-area .data-creditcard-apply-now::after {
+            content: url(https://static.marksandspencer.com/icons/svgs/ArrowRight-v3-1.svg);
+            filter: invert(1);
+            position: relative;
+            top: 6px;
+        }
+
+        .apply-now-width {
+            width: auto;
+        }
+
+        /* class for transparent white button - check elegibility */
+        .data-creditcard-eligibility {
+            background-color: transparent !important;
+            border: 1px solid #ffffff !important;
+            font-family: "mns-london";
+            font-size: 16px;
+            line-height: 30px;
+            text-align: center;
+            color: #fff !important;
+        }
+
+        .representative-example .data-creditcard-eligibility::after {
+            content: url(https://static.marksandspencer.com/icons/svgs/ArrowRight-v3-1.svg?key=v3);
+            filter: invert(1);
+            position: relative;
+            top: 7px;
+        }
+
+        .data-creditcard-eligibility a,
+        .data-creditcard-eligibility a:hover {
+            color: #fff;
+        }
+
+        /* class for transparent black button - check elegibility r*/
+        .calc-area .data-creditcard-eligibility {
+            background-color: transparent !important;
+            border: 1px solid #000000 !important;
+            font-family: "mns-london";
+            font-size: 16px;
+            line-height: 30px;
+            text-align: center;
+            color: #000000 !important;
+            display: flex;
+            flex: auto;
+            gap: .5em;
+        }
+
+        .calc-area .data-creditcard-eligibility::after {
+            content: url(https://static.marksandspencer.com/icons/svgs/ArrowRight-v3-1.svg);
+            position: relative;
+            top: 3px;
+        }
+
+        .calc-area .data-creditcard-eligibility a,
+        .calc-area .data-creditcard-eligibility a:hover {
+            color: #000000;
+        }
+
+
+
+        .ready-to-apply {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+            align-items: center;
+            background: #000000;
+            padding: 64px 0;
+        }
+    }
